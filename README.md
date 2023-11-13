@@ -6,7 +6,7 @@ A Minecraft mod featuring new blocks, items, armor, and hidden mysteries of the 
 If you happen to find any bugs in Infinity And Beyond, be sure to report them here! Try not to post duplicate reports however.
 
 # Contributions
-[![Crowdin](https://badges.crowdin.net/deeper-and-darker/localized.svg)](https://crowdin.com/project/deeper-and-darker)
+[![Crowdin](https://badges.crowdin.net/infinityandbeyond/localized.svg)](https://crowdin.com/project/infinityandbeyond)
 
 If you would like to help translate Infinity And Beyond, head over to our [Crowdin](https://crowdin.com/project/deeper-and-darker) page. If there is a language you want to add translations for, but it is not listed on the page, start a discussion on Crowdin or join my [Discord](https://discord.gg/3QNhsQFp)! I'd love to make our mod even more accessible.
 
