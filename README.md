@@ -1,4 +1,4 @@
-<p align="center"><img src="src/main/resources/infinity_and_beyond.png" alt="infinity and beyond" width="1024"></p>
+<p align="center"><img src="src/main/resources/ultr_mod.png" alt="infinity and beyond" width="1024"></p>
 
 ---
 A Minecraft mod featuring new blocks, items, armor, and hidden mysteries of the world of infinite power.
